@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Karthik K</h1>
-<h3 align="center">A Full Stack Mobile Developer</h3>
+<h1 align="left">Hi 👋, I'm Karthik K</h1>
+<h3 align="left">A Full Stack Mobile Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karthikk9828&label=Profile%20views&color=0e75b6&style=flat" alt="karthikk9828" /> </p>
 
